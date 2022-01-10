@@ -1,10 +1,10 @@
 public class Practice1 {
 
     // We created new class
-    // Step1
-    // step2
+    // Step 1
+    // step 2
     // step 3
-    // Step4
+    // Step 4
 
 
 
